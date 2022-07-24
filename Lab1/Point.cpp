@@ -7,7 +7,7 @@ class Point
 private:
 	int x, y;
 public:
-	//Constructor
+
 	Point()
 	{
 
